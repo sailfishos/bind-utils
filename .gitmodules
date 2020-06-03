@@ -1,0 +1,3 @@
+[submodule "bind9"]
+	path = bind9
+	url = https://github.com/sailfishos-mirror/bind9.git
